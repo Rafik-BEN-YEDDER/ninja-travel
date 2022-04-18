@@ -1,0 +1,6 @@
+export const ADD="ADD"
+export const EDIT="EDIT"
+export const LOAD="LOAD"
+export const FAIL="FAIL"
+export const GET="GET"
+export const DELETE="DELETE"
